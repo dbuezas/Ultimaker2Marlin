@@ -25,3 +25,5 @@ Marlin/resources
 /MarlinSimulator/*.depend
 /MarlinSimulator/*.layout
 /Marlin/*.log
+.build
+.DS_Store
